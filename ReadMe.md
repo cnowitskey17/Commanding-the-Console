@@ -9,4 +9,4 @@
     - **ctrl** + **`** for toggleing the terminal window
     - **ctrl** + **k** followed by **s** to save all
 
-![Commit Messages](https://imgs/xkcd.com/comics/git_commit.png)
+![Commit Messages](https://imgs.xkcd.com/comics/git_commit.png)
